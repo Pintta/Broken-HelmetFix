@@ -1,6 +1,7 @@
 # helmet-fixer
 Helmet Fixer for FiveM
 
+```
 enum ePedConfigFlags {
 	_0x67D1A445 = 0,
 	_0xC63DE95E = 1,
@@ -461,3 +462,4 @@ enum ePedConfigFlags {
 	CPED_CONFIG_FLAG_CanBeIncapacitated = 456,
 	_0x4BD5EBAD = 457,
 }
+```
