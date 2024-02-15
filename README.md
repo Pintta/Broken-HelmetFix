@@ -1,6 +1,6 @@
-# helmet-fixer
+# Broken-HelmetFix
 Helmet Fixer for FiveM
-
+Support: Standalone
 ```
 enum ePedConfigFlags {
 	_0x67D1A445 = 0,
